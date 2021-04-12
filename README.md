@@ -1,2 +1,2 @@
 # rpn
-Region Proposal Network 
+Region Proposal Network. Run training with run.py
